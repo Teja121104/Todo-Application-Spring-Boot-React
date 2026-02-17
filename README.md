@@ -5,12 +5,13 @@ Build a simple Todo application with a Spring Boot backend and React frontend
 **Full-Stack Todo Application** built with **Spring Boot** (backend) and **React** (frontend).  
 ## 🛠️ Tech Stack
 
-| Layer      | Technology                |
-|------------|--------------------------|
-| Backend    | Java, Spring Boot, H2 DB  |
-| Frontend   | React, Axios, tsparticles |
-| Styling    | CSS, animations          |
-| Build Tool | Maven                     |
+ Layer     - Technology                
+
+ Backend    - Java, Spring Boot, H2 DB  
+ Frontend   - React, Axios, tsparticles 
+ Styling    - CSS, animations          
+ Build Tool-  Maven                     
+unzip the file and follow the steps 
 Setup & Run Locally
 backend
 run npm install and then
