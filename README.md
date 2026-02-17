@@ -12,7 +12,9 @@ Build a simple Todo application with a Spring Boot backend and React frontend
 | Styling    | CSS, animations          |
 | Build Tool | Maven                     |
 Setup & Run Locally
-backend directly run by .\mvnw.cmd spring-boot:run
+backend
+run npm install and then
+run by .\mvnw.cmd spring-boot:run
 for frontend:
 cd todo-frontend 
 npm install
